@@ -12,6 +12,7 @@
 	    <developerConnection>scm:git:git@github.com:AshishSanju/ic17-1.git</developerConnection>
 	    <url>scm:git:git@github.com:AshishSanju/ic17-1.git</url>
     <tag>HEAD</tag>
+        </scm>
 	<distributionManagement>
     <repository>
         <id>central</id>
@@ -19,8 +20,7 @@
         <url>http://localhost:8082/artifactory/</url>
     </repository>
 	</distributionManagement>
-    </scm>
-	<dependencies>
+         <dependencies>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
