@@ -34,7 +34,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-	   <finalName>ic17-1</finalName>
 		<plugin>
 		<groupId>org.apache.maven.plugins</groupId>
 		<artifactId>maven-release-plugin</artifactId>
