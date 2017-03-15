@@ -10,15 +10,15 @@
 	<scm>
 	    <connection>scm:git:git@github.com:AshishSanju/ic17-1.git</connection>
 	    <developerConnection>scm:git:git@github.com:AshishSanju/ic17-1.git</developerConnection>
-	    <url>scm:git:git@github.com:AshishSanju/ic17-1</url>
+	    <url>scm:git:git@github.com:AshishSanju/ic17-1.git</url>
     <tag>HEAD</tag>
-	<!--distributionManagement>
+	<distributionManagement>
     <repository>
         <id>central</id>
         <name>Miracle-PC-releases</name>
         <url>http://localhost:8082/artifactory/</url>
     </repository>
-	</distributionManagement-->
+	</distributionManagement>
     </scm>
 	<dependencies>
 		<dependency>
