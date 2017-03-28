@@ -4,7 +4,7 @@
    <groupId>com.mss</groupId>
    <artifactId>ic17</artifactId>
    <packaging>war</packaging>
-   <version>1.0.44-SNAPSHOT</version>
+   <version>1.0.45-SNAPSHOT</version>
    <name>ic17 Maven Webapp</name>
    <url>http://maven.apache.org</url>
    <scm>
