@@ -4,14 +4,14 @@
    <groupId>com.mss</groupId>
    <artifactId>ic17</artifactId>
    <packaging>war</packaging>
-   <version>1.0.48</version>
+   <version>1.0.49-SNAPSHOT</version>
    <name>ic17 Maven Webapp</name>
    <url>http://maven.apache.org</url>
    <scm>
       <connection>scm:git:git@github.com:AshishSanju/ic17-1.git</connection>
       <developerConnection>scm:git:git@github.com:AshishSanju/ic17-1.git</developerConnection>
       <url>scm:git:git@github.com:AshishSanju/ic17-1.git</url>
-      <tag>ic17-1.0.48</tag>
+      <tag>HEAD</tag>
    </scm>
    <distributionManagement>
       <repository>
